@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Md Salim Rana
 
-I'm a passionate **Full Stack JavaScript Developer** with several years of experience. I've worked both as a freelancer and in full-time remote positions. My expertise lies in building web applications, APIs, and dynamic user interfaces.
+I'm a passionate **Full Stack JavaScript Developer** with several years of experience. I've worked both as a freelancer and in full-time remote positions. My expertise lies in building web applications, APIs, and dynamic user interfaces. I am also the founder of [SR Web Studio](https://srwebstudio.com/), a web development agency that specializes in building custom web applications for startups and small businesses.
 
 ## What I Do
 
