@@ -34,7 +34,7 @@ I'm a passionate **Full Stack JavaScript Developer** with several years of exper
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/ranasaliminfo/)
+- [LinkedIn](https://www.linkedin.com/in/salimranahere/)
 - [Portfolio Website](https://srwebstudio.com/)
 
 Let's build something awesome together! 🚀
