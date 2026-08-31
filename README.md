@@ -21,7 +21,6 @@ We work in whatever stack you already use and deploy to your own infrastructure.
 - [SR Web Studio](https://srwebstudio.com)
 - [GitHub org](https://github.com/sr-web-studio)
 - [LinkedIn](https://www.linkedin.com/in/salimranahere/)
-- [Resume](https://my-resume.srwebstudio.com/)
 - [Fiverr](https://www.fiverr.com/salim4369)
 - [Upwork](https://www.upwork.com/freelancers/mdsalimrana3)
 
